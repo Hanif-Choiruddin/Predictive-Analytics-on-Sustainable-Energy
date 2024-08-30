@@ -1,7 +1,7 @@
 # Predictive Analytics on Sustainable Energy
 Preliminary Round DAC PRS 2024
 
-#TEAM
+# TEAM
 1. Hanif Choiruddin, Statistika ITS
 2. Daniswara Aditya Putra, Statistika ITS
 
